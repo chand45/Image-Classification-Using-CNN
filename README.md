@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Image Classification
 classifying images using convolutional neural networks.
 
 Description of the model:
